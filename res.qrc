@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/image.png</file>
+        <file>Images/ACCOUNT.png</file>
+        <file>Images/ADD_ACCOUNT.png</file>
+        <file>Images/attendance.png</file>
+        <file>Images/CALENDER.png</file>
+        <file>Images/CUTTING.png</file>
+        <file>Images/EMPLOYEE.png</file>
+        <file>Images/erp-deals-dashboard-updated.png</file>
+        <file>Images/favicon.ico</file>
+        <file>Images/FINISHING.png</file>
+        <file>Images/LOGIN.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/logout.png</file>
+        <file>Images/manage_account.png</file>
+        <file>Images/MANAGE_EMPLOYEE.png</file>
+        <file>Images/PLANNING.png</file>
+        <file>Images/PRODUCTION.png</file>
+        <file>Images/SETTINGS.png</file>
+        <file>Images/STITCHING.png</file>
+        <file>Images/TIME.png</file>
+        <file>.gitattributes</file>
+        <file>Images/building.svg</file>
+        <file>Images/kisspng-computer-icons-clip-art-change-password-5b4d9bfa9bbac8.1172164115318128586379.png</file>
+        <file>Images/kisspng-computer-icons-user-profile-symbol-person-vector-5ada64c472b1e7.0772987915242620844698 (2).png</file>
+        <file>Images/header3.jpg</file>
+        <file>Images/imageedit_4_9166577722.png</file>
+        <file>Images/imageedit_5_4268171988.png</file>
+        <file>Images/imageedit_10_6148655954.png</file>
+        <file>Images/imageedit_12_7888618364.png</file>
+        <file>Images/Picture1.png</file>
+        <file>Images/26035.png</file>
+        <file>Images/DB</file>
+    </qresource>
+    <qresource prefix="/Inverted Images">
+        <file>Images/Inverted/image (1).png</file>
+        <file>Images/Inverted/image (2).png</file>
+        <file>Images/Inverted/image (3).png</file>
+        <file>Images/Inverted/image (4).png</file>
+        <file>Images/Inverted/image (5).png</file>
+        <file>Images/Inverted/image (6).png</file>
+        <file>Images/Inverted/image (7).png</file>
+        <file>Images/Inverted/image (8).png</file>
+        <file>Images/Inverted/image (9).png</file>
+        <file>Images/Inverted/image (10).png</file>
+        <file>Images/Inverted/image (11).png</file>
+        <file>Images/Inverted/image (12).png</file>
+        <file>Images/Inverted/image.png</file>
+        <file>Images/Inverted/image (14).png</file>
+        <file>Images/Inverted/image (15).png</file>
+        <file>Images/Inverted/image (16).png</file>
+        <file>Images/Inverted/image (17).png</file>
+        <file>Images/Inverted/image (18).png</file>
+        <file>Images/Inverted/Cut.png</file>
+        <file>Images/Inverted/Pl.png</file>
+        <file>Images/Inverted/image (19).png</file>
+        <file>Images/Inverted/image (20).png</file>
+        <file>Images/Inverted/image (21).png</file>
+        <file>Images/Inverted/image (22).png</file>
+        <file>Images/Inverted/image (23).png</file>
+        <file>Images/Inverted/image (25).png</file>
+        <file>Images/Inverted/image (26).png</file>
+    </qresource>
+</RCC>

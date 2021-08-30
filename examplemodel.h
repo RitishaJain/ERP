@@ -1,0 +1,4 @@
+#ifndef EXAMPLEMODEL_H
+#define EXAMPLEMODEL_H
+
+#endif // EXAMPLEMODEL_H
